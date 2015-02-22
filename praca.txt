@@ -1,5 +1,5 @@
-Test test test
-++++++++++++++
-+2
+Test test test        no i wazniejszy test
+++++++++++++++_____________
++2++++++++++++++++++++++++
 
 Modyfikacja 1.
